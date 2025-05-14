@@ -7,3 +7,6 @@
 - Criar um documento HTML simples como index.html;
 - Fazer o push e habilitar o github pages;
 - Enviar os links do repositório remoto e da página publicada.
+
+### 👻 GitHub Pages
+- https://ufjf-dcc202.github.io/ufjf-dcc202-2025-1-b-atv01-dcarminatti/
