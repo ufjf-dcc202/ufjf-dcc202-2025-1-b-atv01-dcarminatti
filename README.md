@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TsRKk2Xn)
+# 🧑‍💻 [DCC202] Desenvolvimento Web 
+
+###  📌 Atividade 01
+- Aceitar a atividade pelo github classroom;
+- Criar o repositório remoto e fazer o clone local;
+- Configurar seu VSCode local para seu nome  e e-mail institucional;
+- Criar um documento HTML simples como index.html;
+- Fazer o push e habilitar o github pages;
+- Enviar os links do repositório remoto e da página publicada.
